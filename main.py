@@ -1,9 +1,9 @@
 from pyrogram import Client
 from pyrogram.enums import ChatType
 
-api_id = YOUR_APP_ID
-api_hash = "YOUR_APP_HASH)"
-app = Client("AnyString")
+api_id = 28837889
+api_hash = "9d5e9c5b8abcf8b7b930abd259de254e)"
+app = Client("7168420095:AAGpxqvoN85bpxG1scHHUqHTOp-N3W5TcYU")
 
 
 async def main():
